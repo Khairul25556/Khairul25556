@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=9BEC00&width=600&lines=Hi%2C+I'm+Md.+Khairul+Islam!;Web+Developer+%7C+Tech+Enthusiast+%7C+Problem+Solver)](https://git.io/typing-svg)
+
 # 💫 About Me:
 💻 **Passionate Web Developer** with a strong foundation in **front-end and back-end technologies**.  
 📍 From **Bangladesh**, with a keen interest in **building user-friendly, efficient, and scalable web applications**.  
