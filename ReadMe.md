@@ -1,6 +1,8 @@
 # 💫 About Me:
-I'm Md. Khairul Islam (Ghost), an EEE graduate passionate about programming, cybersecurity, and semiconductors. I have experience in web development, IC design, and MATLAB simulations. I enjoy boxing, gaming, and psychological thrillers. My goal is to become a full-stack web developer and excel in the tech industry.
-
+💻 **Passionate Web Developer** with a strong foundation in **front-end and back-end technologies**.  
+📍 From **Bangladesh**, with a keen interest in **building user-friendly, efficient, and scalable web applications**.  
+🔭 Currently **learning and improving** my skills in **JavaScript & Backend Development**.  
+🚀 Aspiring to contribute to the **tech industry** by creating innovative and impactful web solutions.  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ghost.rifat/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-khairul-islam-5b7b1a302/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Khairul75765) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krft44@gmail.com) 
