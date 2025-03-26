@@ -9,12 +9,41 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ghost.rifat/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-khairul-islam-5b7b1a302/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Khairul75765) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krft44@gmail.com) 
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+## 💼 Work Experience  
+🔹 **IT Officer – Lazz Pharma**  
+📍 Worked in **IT support & system management** at **Lazz Pharma**, a leading pharmacy in Bangladesh.  
+
+
+## 🎓 Educational Qualification  
+
+📚 **Bachelor of Science (B.Sc.) in Electrical & Electronic Engineering**  
+🔹 **Bangladesh Army University of Engineering & Technology (BAUET)**  
+🎯 **CGPA:** 3.31/4.00  
+
+📚 **Higher Secondary Certificate (HSC)**  
+🔹 **Major General Mahmudul Hasan Adarsha College**  
+🎯 **GPA:** 4.08/5.00  
+
+📚 **Secondary School Certificate (SSC)**  
+🔹 **Bindu Basini Govt. Boys High School**  
+🎯 **GPA:** 5.00/5.00  
+
+## 💻 Tech Stack  
+
+### 🔹 **Languages & Frameworks**  
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
+
+### ⚙️ **Tools & Platforms**  
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Khairul25556&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Khairul25556&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khairul25556&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khairul25556&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=Khairul25556&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br>
+![](https://nirzak-streak-stats.vercel.app/?user=Khairul25556&theme=highcontrast&hide_border=false)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Khairul25556&theme=radical&no-frame=true&no-bg=false&margin-w=4)
@@ -22,10 +51,16 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Khairul25556&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🏆 Extra-Curricular Activities  
+- 🤖 **Member at BAUET Automation & Robotics Club**  
+- 📚 **Member at BAUET English Language Club** 
+
+## 🌍 Language Proficiency  
+- **Bengali:** Native fluency in reading, writing, and speaking.  
+- **English:** Proficient in reading, writing, and speaking.  
+- **Italian:** Basic proficiency
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Khairul25556&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐ **If you like my work, consider giving it a star!** ⭐  
