@@ -62,5 +62,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Khairul25556&icon=0&color=0)](https://visitcount.itsvg.in)
+![qr](qr.png)
 
 ⭐ **If you like my work, consider giving it a star!** ⭐  
