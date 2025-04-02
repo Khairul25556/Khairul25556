@@ -28,6 +28,13 @@
 <img  align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <a href = 'https://www.linkedin.com/in/md-khairul-islam-5b7b1a302/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href = 'https://github.com/Khairul25556'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href='mailto:krft44@gmail.com'>
+    <img width='32px' align='center' src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
+</a>
+
+<a href='https://x.com/Khairul75765'>
+    <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>
+</a>
 
 ---
 
