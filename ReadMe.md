@@ -7,7 +7,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,gitlab,bash,express,github,css,html,js,nodejs,tailwind,vscode,mongodb,mysql,npm,bootstrap,react,windows,markdown&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,discord,gitlab,bash,express,github,css,html,js,nodejs,tailwind,vscode,mongodb,mysql,npm,bootstrap,react,markdown&perline=14" />
   </a>
 </p>
 
