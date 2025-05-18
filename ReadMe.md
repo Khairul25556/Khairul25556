@@ -1,6 +1,6 @@
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Hi, I'm Md. Khairul Islam 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Welcome+to+My+Github;I'm+a+Web+Developer;I'm+a+EEE+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Welcome+to+My+Facebbok;I'm+a+Web+Developer;I'm+a+EEE+Engineer)](https://git.io/typing-svg)
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
 ## 🛠️ Skills & Expertise
